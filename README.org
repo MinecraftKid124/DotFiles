@@ -1,6 +1,9 @@
+#+TITLE: README File
+#+AUTHOR: Ashton Tink
+
 * Ashtons Config Files!
 
 ** Download:
 #+begin_src bash
 git clone https://github.com/MinecraftKid124/DotFiles.git
-move * ~/
+move -r * ~/
