@@ -3,7 +3,14 @@
 
 * Table Of Contents :toc:
 
-** Download:
+* Download:
+
 #+begin_src bash
 git clone https://github.com/MinecraftKid124/DotFiles.git
 move -r * ~/
+
+* Configured Programs
+**    ZSH
+**    Kitty (WIP)
+**    Doom Emacs (WIP)
+**    Hyprland (WIP)
