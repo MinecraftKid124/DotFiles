@@ -1,7 +1,7 @@
 #+TITLE: README File
 #+AUTHOR: Ashton Tink
 
-* Ashtons Config Files!
+* Table Of Contents :toc:
 
 ** Download:
 #+begin_src bash
