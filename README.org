@@ -1,13 +1,12 @@
 #+TITLE: README File
 #+AUTHOR: Ashton Tink
 
-* Table Of Contents :toc:
-
 * Download:
 
 #+begin_src bash
 git clone https://github.com/MinecraftKid124/DotFiles.git
 move -r * ~/
+#+end_src
 
 * Configured Programs
 **    ZSH
